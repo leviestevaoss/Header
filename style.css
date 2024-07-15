@@ -26,11 +26,14 @@
   min-width: 603.72px;
   top: 36.72px;
   left: 414.72px;
-  gap: 0px;
   border-radius: 8px;
   border: none;
   opacity: 0.04px;
   background-color: #66666612;
+  background-image: url('imgs/Search.png'); /* URL da imagem de lupa */
+  background-size: 20px 20px; /* Tamanho do ícone de lupa */
+  background-position: calc(100% - 10px) center; /* Posicionamento do ícone */
+  background-repeat: no-repeat;
 }
 
 .fontnavs {
